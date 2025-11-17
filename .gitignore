@@ -1,0 +1,14 @@
+# Fichiers cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers d'environnement
+.env
+.venv
+venv/
+ENV/
+
+# Fichiers texte spécifiques (au lieu de tous les .txt)
+!idéejeu.txt
